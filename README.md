@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:4DBBEB&height=200&section=header&text=Daniel%20Souza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20·%20Python%20%7C%20Node.js%20%7C%20C%23&descAlignY=58&descSize=20&descColor=d0d0ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:4DBBEB&height=200&section=header&text=Daniel%20Souza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20·%20Python%20%7C%20Node.js%20%7C%20PHP&descAlignY=58&descSize=20&descColor=d0d0ff" />
 
 <div align="center">
 
@@ -8,12 +8,15 @@
 <a href="https://github.com/danielmhsouza">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://github.com/daniel-m-tfs">
+  <img src="https://img.shields.io/badge/GitHub%20(daniel--m--tfs)-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=danielmhsouza&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Building+scalable+and+business-critical+systems;Python+%7C+Node.js+%7C+C%23;Cloud+Architecture+%26+Automation;Exploring+.NET+and+Game+Development+with+Unity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Building+scalable+and+business-critical+systems;Python+%7C+Node.js+%7C+PHP;Cloud+Architecture+%26+Automation;Creator+of+Crescent+PHP+Framework" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,16 +25,16 @@
 
 ## `$ whoami`
 
-```csharp
-var daniel = new SoftwareEngineer
-{
-    Focus        = "Backend Engineering",
-    MainStack    = new[] { "Python", "Node.js", "C#" },
-    Architecture = new[] { "REST APIs", "Microservices", "Distributed Systems" },
-    Cloud        = new[] { "AWS", "Docker", "Terraform" },
-    Experience   = "Building scalable and business-critical systems",
-    Interests    = new[] { "System Design", "Automation", "Game Development with Unity" }
-};
+```php
+$daniel = new SoftwareEngineer([
+    'focus'       => 'Backend Engineering',
+    'mainStack'   => ['Python', 'Node.js', 'PHP'],
+    'frameworks'  => ['Laravel', 'Crescent PHP (own)', 'FastAPI', 'Express'],
+    'architecture'=> ['REST APIs', 'Microservices', 'Distributed Systems'],
+    'cloud'       => ['AWS', 'Docker', 'Terraform'],
+    'experience'  => 'Building scalable and business-critical systems',
+    'interests'   => ['System Design', 'Automation', 'Game Development with Unity'],
+]);
 ```
 
 ---
@@ -41,8 +44,9 @@ var daniel = new SoftwareEngineer
 <div align="center">
 
 ### ⚡ Backend
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Crescent_PHP-7B2FBE?style=for-the-badge&logo=php&logoColor=white"/>
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,9 +57,6 @@ var daniel = new SoftwareEngineer
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 ### ☁️ Cloud & Infrastructure
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
